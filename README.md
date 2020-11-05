@@ -4,7 +4,7 @@ Use this master template to create CT Assignment Templates.
 
 ## Problem Description
 Problem description goes here. 
-
+Looking for the organization...
 * Steps to take go here. 
 
 ## Example
@@ -12,6 +12,7 @@ Problem description goes here.
 Value to increment? 5
 10
 ```
+
 
 ## Suggested Approach
 1) Suggestions go here
